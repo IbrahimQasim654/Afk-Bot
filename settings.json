@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "TUFFSMPS4.aternos.me",
+    "port": 21818,
     "version": "1.19.3"
   },
 
